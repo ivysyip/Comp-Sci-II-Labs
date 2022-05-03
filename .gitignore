@@ -1,2 +1,5 @@
+# ignore ALL .class files
+*.class
+
 # ignore ALL .log files
 *.log
